@@ -27,11 +27,10 @@ author:
   name             : "Giussepi Ali Jhonatan Mamani Paco"
   pronouns         : "He/Him" # example: "she/her"  
   bio              : "PhD Student in Chemical Engineering Sciences | Process Systems Engineering | Process Simulation | Sustainable Process Design | Optimization"
-  location         : "Guanajuato, Mexico and Lima, Peru"
-  employer         : "Student@Guanajuato University | Professor@UTEC | Process Engineer@STEMROCK"
+  location         : "Mexico & Peru"
+  employer         : "UTEC"
   uri              : # URL
   email            : "gmamani@utec.edu.pe" 
-  email2           : "gaj.mamanipaco@ugto.mx"
 
   # Academic websites
   academia         : # URL
@@ -42,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-8196-7448"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Giussepi-Mamani-Paco"
   scopus           : # URL
   zotero           : # URL
