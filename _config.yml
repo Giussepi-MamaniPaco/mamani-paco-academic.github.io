@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Giussepi Mamani's Homepage"
 title_separator          : "-"
 name                     : &name "Giussepi Ali Jhonatan Mamani-Paco"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD student in Chemical Engineering Sciences researching process systems engineering, process simulation, sustainable process design, and optimization."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://giussepi-mamanipaco.github.io/mamani-paco-academic.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,24 +25,25 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Giussepi Ali Jhonatan Mamani Paco"
-  pronouns         : "He/His" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Guanajuato, GTO, Mexico"
-  employer         : "PhD Student at Guanajuato University | Professor at UTEC | Process Engineer at STEMROCK"
+  pronouns         : "He/Him" # example: "she/her"  
+  bio              : "PhD Student in Chemical Engineering Sciences | Process Systems Engineering | Process Simulation | Sustainable Process Design | Optimization"
+  location         : "Guanajuato, Mexico and Lima, Peru"
+  employer         : "Student@Guanajuato University | Professor@UTEC | Process Engineer@STEMROCK"
   uri              : # URL
   email            : "gmamani@utec.edu.pe" 
+  email2           : "gaj.mamanipaco@ugto.mx"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=mJ4AhgoAAAAJ&hl=es&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8196-7448"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Giussepi-Mamani-Paco"
   scopus           : # URL
   zotero           : # URL
 
