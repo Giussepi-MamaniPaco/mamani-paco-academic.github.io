@@ -41,13 +41,13 @@ Work experience
   * Supported courses and activities related to **heat transfer, material and energy balances, analytical chemistry, advanced chemistry, Chemical Reactor Design II, and Process and Plant Design**.
   * Developed training activities in **ProMax process simulation**.
 
-* **2017–Present: Academic Enrollment Advisor / Student Support**
-  * **University of Engineering and Technology (UTEC)**, Lima, Peru
-  * Academic advising for students in early semesters, including course planning and guidance regarding academic challenges and prerequisites.
-
 * **Aug. 2018–Nov. 2018: Academic Mentor**
   * **University of Engineering and Technology (UTEC)**, Lima, Peru
   * Provided academic support in Mathematics I and II, prepared practice problems, and followed student performance.
+  
+* **Jun. 2017–Jun. 2018: Academic Enrollment Advisor / Student Support**
+  * **University of Engineering and Technology (UTEC)**, Lima, Peru
+  * Academic advising for students in early semesters, including course planning and guidance regarding academic challenges and prerequisites.
 
 Skills
 ======
